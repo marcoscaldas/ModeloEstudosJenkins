@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-//
+////
 // Remova ou comente a linha abaixo
 // @WebServlet("/hello")
 public class HelloWorldServlet extends HttpServlet {
